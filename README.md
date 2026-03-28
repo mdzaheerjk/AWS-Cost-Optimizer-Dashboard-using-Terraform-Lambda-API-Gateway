@@ -1,1 +1,2 @@
 # AWS-Cost-Optimizer-Dashboard-using-Terraform-Lambda-API-Gateway
+AWS Cost Optimizer Dashboard is a production-grade application that helps users visualize and optimize AWS costs by fetching billing data and resource inventory via boto3. It features an AI-powered advisor (LangChain + OpenAI GPT-4o) for intelligent cost reduction recommendations and includes infrastructure automation via Terraform for Lambda deployment.
